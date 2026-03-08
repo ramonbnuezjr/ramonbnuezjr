@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ramon B. Nuez Jr. 👋
 
-<!--
-**ramonbnuezjr/ramonbnuezjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a public-sector IT leader based in Brooklyn, NY, exploring **sovereign compute**, **hybrid AI service design**, and **edge intelligence**. I build in public and ship prototypes.
 
-Here are some ideas to get you started:
+My day job is at The City of New York - DSS. My nights and weekends are spent pushing the boundaries of what local and open-source AI can do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+- 🤖 **AI Agents** — autonomous agents for research, strategy, and municipal workflows
+- 🦙 **Local LLMs** — running Mistral, TinyLlama, and Whisper on-device with Ollama and RAG pipelines
+- 🍓 **Edge AI on Raspberry Pi** — real-time vision, speech, and reasoning at the edge
+- 🏛️ **Civic Tech** — tools that help government serve people better
+
+## Find Me Elsewhere
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-b-nuez-jr)
+- 📧 ray@ramonbnuezjr.com
